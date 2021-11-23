@@ -1,5 +1,4 @@
-🔭 - Experiência de 9 anos com tecnologia, soluções, implementação e treinamentos de software ERP para empresas, ponto focal entre o cliente e time de DEV, buscando melhores soluções para o negócio.
-Atualmente parte analista de T.I grupo Raízen , responsável controle de ativos, participação em de projetos T.I, controle de infra-estrutura, data center, rede corporativa, olhar crítico para incidentes e melhorias.
+🔭 - Entusiasta de segurança da informação, apaixonado por tecnologia, quero iniciar aqui a compartilhar projetos futuros que possam contribuir com + segurança ao mundo.
 🌱
 Graduando em Análise de Sistemas | Unicesumar.
 Cursando Pentester Profissional | Desec | certificação DCPT.

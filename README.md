@@ -1,6 +1,9 @@
-🔭 Olá meu nome é Matheus felipe de santana, trabalho a 10 anos como suporte de sistemas, implantação atendimento ao cliente final.
-No ano de 2020 iniciei curso em ADS, agora no inicio de 2021 encontrei realmente o que quero fazer CyberSecurity.
-🌱 Atualmente estou em busca da DCPT como pentester profissional. Iniciado em (Março 2021)
+🔭 - Experiência de 9 anos com tecnologia, soluções, implementação e treinamentos de software ERP para empresas, ponto focal entre o cliente e time de DEV, buscando melhores soluções para o negócio.
+Atualmente parte analista de T.I grupo Raízen , responsável controle de ativos, participação em de projetos T.I, controle de infra-estrutura, data center, rede corporativa, olhar crítico para incidentes e melhorias.
+🌱
+Graduando em Análise de Sistemas | Unicesumar.
+Cursando Pentester Profissional | Desec | certificação DCPT.
+
 
 meus contatos.
 E-mail: matheus.vision3@gmail.com

@@ -1,4 +1,4 @@
-### Matheus Santana ⚛️ Security Lover
+### Matheus Santana 🔐 Security Lover
 
 <div align="center">
   <a href="https://github.com/maathews">
